@@ -15,6 +15,8 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 
 ## Overview
 
+![Screenshot_2](https://github.com/ursgol/blog-preview-card/assets/86830748/049d8538-7799-4996-8124-67ff359639b2)
+
 ### The challenge
 
 Users should be able to:
