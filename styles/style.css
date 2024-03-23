@@ -93,15 +93,16 @@ body{
 }
 
 
-picture{
+.picture{
    display: flex;
    position: relative;
 }
 
-picture img{
+.image-avatar{
+    max-width: 80px;
 }
 
-picture label{
+.picture .label-name{
   font-weight: 900;
   position: absolute;
   top: 30px;
